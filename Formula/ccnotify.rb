@@ -1,8 +1,8 @@
 class Ccnotify < Formula
   desc "Clickable macOS notifications from the command line"
   homepage "https://github.com/co-index/ccnotify"
-  url "https://github.com/co-index/ccnotify/archive/refs/tags/v1.1.3.tar.gz"
-  sha256 "d1a69ccfb958c9d7ca8e45682524a5d3647d31e31afffe08472c8d12624a96b0"
+  url "https://github.com/co-index/ccnotify/archive/refs/tags/v1.2.0.tar.gz"
+  sha256 "e2cbe3f962e4666b180b3b6bb5c226b30fababb6ac23bfc60ca18a7658a4b04c"
   license "MIT"
 
   depends_on :macos
